@@ -1,0 +1,12 @@
+c:\users\mmc-yazılım\source\repos\JwtRefresh\JwtRefresh\bin\Debug\netcoreapp2.0\JwtRefresh.deps.json
+c:\users\mmc-yazılım\source\repos\JwtRefresh\JwtRefresh\bin\Debug\netcoreapp2.0\JwtRefresh.runtimeconfig.json
+c:\users\mmc-yazılım\source\repos\JwtRefresh\JwtRefresh\bin\Debug\netcoreapp2.0\JwtRefresh.runtimeconfig.dev.json
+c:\users\mmc-yazılım\source\repos\JwtRefresh\JwtRefresh\bin\Debug\netcoreapp2.0\JwtRefresh.dll
+c:\users\mmc-yazılım\source\repos\JwtRefresh\JwtRefresh\bin\Debug\netcoreapp2.0\JwtRefresh.pdb
+c:\users\mmc-yazılım\source\repos\JwtRefresh\JwtRefresh\obj\Debug\netcoreapp2.0\JwtRefresh.csprojResolveAssemblyReference.cache
+c:\users\mmc-yazılım\source\repos\JwtRefresh\JwtRefresh\obj\Debug\netcoreapp2.0\JwtRefresh.csproj.CoreCompileInputs.cache
+c:\users\mmc-yazılım\source\repos\JwtRefresh\JwtRefresh\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\mmc-yazılım\source\repos\JwtRefresh\JwtRefresh\obj\Debug\netcoreapp2.0\JwtRefresh.AssemblyInfoInputs.cache
+c:\users\mmc-yazılım\source\repos\JwtRefresh\JwtRefresh\obj\Debug\netcoreapp2.0\JwtRefresh.AssemblyInfo.cs
+c:\users\mmc-yazılım\source\repos\JwtRefresh\JwtRefresh\obj\Debug\netcoreapp2.0\JwtRefresh.dll
+c:\users\mmc-yazılım\source\repos\JwtRefresh\JwtRefresh\obj\Debug\netcoreapp2.0\JwtRefresh.pdb
